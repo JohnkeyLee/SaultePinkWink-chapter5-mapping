@@ -3,7 +3,7 @@ This Repo contains what I learned from "the great teacher"
 ### [PinkWink](https://github.com/PinkWink)
 ## Title: Different mapping expression (Cartogram vs. Folium) and data re-organizing for the population in Korea
 The whole process is to learn _**the data processing and analysis**_
-<br/>**Task:** TBD
+<br/>**Task:** Data processing on the purpose and mapping in two different ways
 <br/>**Work environment:** 
 > python 3.9.5 (4/15/2023)
 <br/>pandas 1.5.3 
